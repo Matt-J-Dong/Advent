@@ -1,0 +1,31 @@
+if(index==-1):
+            flag = False
+            break
+        print(index)
+        print(lines[i][index:len(lines[i])])
+        end = lines[i][index:len(lines[i])].find(")")+index
+        print(end)
+        check = lines[i][index+4:end]
+        numbers = check.split(",")
+        print(numbers)
+        #print("NUMBERS FOUND")
+        number_list = map(int,numbers)
+        number_list = list(number_list)
+        print(number_list)
+        total = total + number_list[0]*number_list[1]
+        #print("EXCEPTION")
+        #break
+        lines[i]=lines[i][end+1:len(lines[i])]
+        print(f"After removal: {lines[i]}")
+
+
+
+flag2 = True
+        checking = index
+        while flag2:
+            characters = lines[i][checking:checking+1]
+            if characters in numbers:
+                continue
+            else:
+                flag2 = False
+            number = number + characters
