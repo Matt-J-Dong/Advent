@@ -1,0 +1,21 @@
+
+kamis@Matthew-NJS MINGW64 ~/Documents/GitHub/Advent/Duck1 (main)
+$ python final.py
+['Tyrcyth', 'Dorzar', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['L7', 'R1', 'L5', 'R1', 'L1', 'R5', 'L1', 'R8', 'L1', 'R7', 'L5']
+9
+10
+['Tyrcyth', 'Dorzar', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Ascalgarath', 'Dorzar', 'Galzryn', 'Tyrcyth', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Jorathgnar', 'Dorzar', 'Galzryn', 'Tyrcyth', 'Ascalgarath', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Tirpyros\n', 'Dorzar', 'Galzryn', 'Tyrcyth', 'Ascalgarath', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Jorathgnar']
+['Tirpyros\n', 'Dorzar', 'Galzryn', 'Tyrcyth', 'Ascalgarath', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Jorathgnar']
+['Jorathgnar', 'Dorzar', 'Galzryn', 'Tyrcyth', 'Ascalgarath', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Ascalgarath', 'Dorzar', 'Galzryn', 'Tyrcyth', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Tyrcyth', 'Dorzar', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Dorzar', 'Tyrcyth', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Dorzar', 'Tyrcyth', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['Ulkxal', 'Tyrcyth', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Dorzar', 'Naldimar', 'Tirpyros\n']
+Galzryn
+
+kamis@Matthew-NJS MINGW64 ~/Documents/GitHub/Advent/Duck1 (main)

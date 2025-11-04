@@ -1,0 +1,35 @@
+
+kamis@Matthew-NJS MINGW64 ~/Documents/GitHub/Advent/Duck1 (main)
+$ python next.py
+['Tyrcyth', 'Dorzar', 'Galzryn', 'Ascalgarath', 'Jorathgnar', 'Quarnjoris', 'Eldenketh', 'Ulkxal', 'Naldimar', 'Tirpyros\n']
+['L7', 'R1', 'L5', 'R1', 'L1', 'R5', 'L1', 'R8', 'L1', 'R7', 'L5']
+9
+10
+Position:0
+Name:Tyrcyth
+Position:3
+Name:Ascalgarath
+Position:4
+Name:Jorathgnar
+Position:9
+Name:Tirpyros
+
+Position:0
+Name:Tyrcyth
+Position:9
+Name:Tirpyros
+
+Position:4
+Name:Jorathgnar
+Position:3
+Name:Ascalgarath
+Position:1
+Name:Dorzar
+Position:0
+Name:Tyrcyth
+Position:7
+Name:Ulkxal
+2
+Galzryn
+
+kamis@Matthew-NJS MINGW64 ~/Documents/GitHub/Advent/Duck1 (main)
