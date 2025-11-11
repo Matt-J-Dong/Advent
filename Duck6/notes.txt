@@ -1,0 +1,22 @@
+# for num in numbers:
+#     is_side = False
+#     if not list1:
+#         list1.append(num)
+#         #middle.append(num)
+#     else:
+#         for piece in list1:
+#             if num<piece and len(before) < len(list1):
+#                 before.append(num)
+#                 is_side = True
+#                 break
+#             if num>piece and len(after) < len(list1):
+#                 after.append(num)
+#                 is_side = True
+#                 break
+#         if not is_side:
+#             list1.append(num)
+#             #middle.append(num)
+
+# print(list1)
+# print(before)
+# print(after)
